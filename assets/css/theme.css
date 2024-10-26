@@ -744,6 +744,12 @@ h2,h3,h4,h5,h6{
 /*------------------------ 1.5 Buttons Ends ---------------------------- */
 
 /*----------------------- 1.6 Form / Input / Textarea Starts --------------------------- */
+
+.btn-contact {
+    height: 50px !important;
+    display: block;
+}
+
 textarea{
     resize: vertical;
 }
